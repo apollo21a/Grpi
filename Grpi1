@@ -12,8 +12,8 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?checke
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Action 24
 http://ingrid.ltd:25461/frank1/frank/41008?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Alert
-http://ingrid.ltd:25461/frank1/frank/41007?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png" group-title="Local",Alert
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Alpha
 http://ingrid.ltd:25461/frank1/frank/41006?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Attica
@@ -70,6 +70,14 @@ https://fixhd.tv:8082/fix/hd.stream/playlist.m3u8?checkedby:hlscat.com
 http://randomserver.site:2086/riyad/riyad/94086?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",FOX CHANNEL
 http://randomserver.site:2086/riyad/riyad/94085?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Undefined",FR | TF1,TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Undefined",FR | TF1 Séries Films,TF1 Séries Films,TF1 S�ries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Undefined",FR | TFX,TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Undefined",FR | TMC,TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" group-title="Undefined",Fox Tv Greece
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/7a/Gong_max_logo.png/revision/latest/scale-to-width-down/340?cb=20160625145259&path-prefix=fr" group-title="Undefined",GONG Max
@@ -150,14 +158,6 @@ http://ingrid.ltd:25461/frank1/frank/40969?checkedby:hlscat.com
 http://ingrid.ltd:25461/frank1/frank/40968?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Star (Backup)
 http://ingrid.ltd:25461/frank1/frank/40967?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Undefined",FR | TF1,TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Undefined",FR | TF1 Séries Films,TF1 Séries Films,TF1 S�ries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Undefined",FR | TFX,TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Undefined",FR | TMC,TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" group-title="Local",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="http://i.imgur.com/GdgekUL.png" group-title="Undefined",TV Filopoli
